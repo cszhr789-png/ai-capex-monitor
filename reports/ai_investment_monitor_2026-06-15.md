@@ -1,34 +1,43 @@
 # AI 投资监控周报
 
-生成时间：2026-06-15 21:40:02
+生成时间：2026-06-15 14:35:26
 
 ## 一、本周核心结论
 
-AI Infrastructure Score：**72/100**  
-评分解读：偏强：需求仍有支撑，但需要观察边际变化
+AI Infrastructure Score：**91/100**  
+评分解读：很强：AI 基础设施投资处于高景气区间
 
-本周四家云厂商季度 CapEx 合计约 **51.8 十亿美元**，NVIDIA 数据中心收入约 **62.3 十亿美元**。
+AI Infrastructure Traffic Light：**Green / Bullish**
+
+本周四家云厂商季度 CapEx 合计约 **93.0 十亿美元**，NVIDIA 数据中心收入约 **62.3 十亿美元**。
 
 对比基准：**无历史报告，本期作为基准**
+
+| 项目 | 数值 |
+| --- | ---: |
+| Last report score | 无历史 |
+| Current score | 91 |
+| Score change | 无可比历史 |
 
 ## 二、核心数据与趋势
 
 | 公司 | 指标 | 财期 | 金额（十亿美元） | 强度 | 较上期趋势 |
 | --- | --- | --- | ---: | --- | --- |
-| Microsoft | Quarterly CapEx | FY2026 Q3 filed 2026-04-29 | 16.7 | 强 | 无可比历史 |
-| Meta | Quarterly CapEx | FY2026 Q1 filed 2026-04-30 | 12.9 | 强 | 无可比历史 |
-| Alphabet (Google) | Quarterly CapEx | FY2026 Q1 filed 2026-04-30 | 17.2 | 强 | 无可比历史 |
-| Amazon AWS CapEx | AWS CapEx Proxy | FY2017 Q1 filed 2017-04-28 | 4.9 | 观察 | 无可比历史 |
+| Microsoft | Quarterly CapEx | FY2026 Q3 filed 2026-04-29 | 30.9 | 极强 | 无可比历史 |
+| Meta | Quarterly CapEx | FY2026 Q1 filed 2026-04-30 | 19.0 | 强 | 无可比历史 |
+| Alphabet (Google) | Quarterly CapEx | FY2026 Q1 filed 2026-04-30 | 35.7 | 极强 | 无可比历史 |
+| Amazon AWS CapEx | AWS CapEx Proxy | FY2017 Q1 filed 2017-04-28 | 7.4 | 中等偏强 | 无可比历史 |
 | NVIDIA | Data Center Revenue | Fourth Quarter and Fiscal 2026 | NVIDIA Newsroom, January 25, 2026 | 62.3 | 极强 | 无可比历史 |
 
-## 三、Buy/Hold/Caution 信号
+## 三、行业评级
 
-| 方向 | 信号 | 原因 |
+| 方向 | 评级 | 原因 |
 | --- | --- | --- |
-| 光芯片 | 持有 | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; 高速光芯片与 GPU 集群扩容相关度高。 |
-| 光模块 | 买入 | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; 800G/1.6T 需求与数据中心网络投入直接相关。 |
-| CPO | 持有 | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; CPO 更偏中长期导入，需要更高的景气度确认。 |
-| PCB | 买入 | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; AI 服务器和交换机投入推动高层数、低损耗 PCB 需求。 |
+| Optical Chip | Bullish | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; 高速光芯片与 GPU 集群扩容相关度高。 |
+| Optical Module | Bullish | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; 800G/1.6T 需求与数据中心网络投入直接相关。 |
+| CPO | Bullish | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; CPO 更偏中长期导入，需要更高的景气度确认。 |
+| Advanced Packaging | Bullish | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; 先进封装与 GPU、HBM、CoWoS 需求高度同步。 |
+| PCB | Bullish | 云厂商 CapEx 动量 +0.0, NVIDIA 数据中心动量 +0.0; AI 服务器和交换机投入推动高层数、低损耗 PCB 需求。 |
 
 ## 四、趋势分析
 
@@ -60,5 +69,12 @@ AI 服务器、交换机和高速互连提升 PCB 层数、材料等级和制造
 - Alphabet (Google): SEC companyfacts CIK 0001652044, tag PaymentsToAcquirePropertyPlantAndEquipment. SEC companyfacts 自动抓取；Q2/Q3 使用 YTD 差额估算单季，Q4 使用 FY-Q3 估算。
 - Amazon AWS CapEx: SEC companyfacts CIK 0001018724, tag PaymentsToAcquirePropertyPlantAndEquipment. SEC companyfacts 自动抓取；Q2/Q3 使用 YTD 差额估算单季，Q4 使用 FY-Q3 估算。 Amazon 不单独披露 AWS CapEx，因此用 Amazon 整体 CapEx 作为 AWS/AI 基础设施代理指标。
 - NVIDIA: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026. 从 NVIDIA earnings release 自动解析 Data Center revenue。
+
+## 七、最终投资仪表盘摘要
+
+- 总体信号：**Green / Bullish**。
+- 分数变化：上期 **无历史**，本期 **91**，变化 **无可比历史**。
+- 行业分布：Bullish **5** 个，Neutral **0** 个，Bearish **0** 个。
+- 操作含义：Green 代表偏多，Yellow 代表中性观察，Red 代表风险升高。本仪表盘仅用于研究辅助，不是交易指令。
 
 > 提醒：本项目用于学习和研究辅助，不构成投资建议。
