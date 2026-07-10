@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-07-10T10:36:18",
+  "ai_infrastructure_score": 91,
+  "score_change": 0,
+  "traffic_light": "Green",
+  "traffic_signal": "Bullish",
+  "metrics": [
+    {
+      "company": "Microsoft",
+      "metric_name": "Quarterly CapEx",
+      "fiscal_period": "FY2026 Q3 filed 2026-04-29",
+      "value_usd_billions": 30.876,
+      "source": "SEC companyfacts CIK 0000789019, tag PaymentsToAcquirePropertyPlantAndEquipment",
+      "note": "SEC companyfacts 自动抓取；Q2/Q3 使用 YTD 差额估算单季，Q4 使用 FY-Q3 估算。"
+    },
+    {
+      "company": "Meta",
+      "metric_name": "Quarterly CapEx",
+      "fiscal_period": "FY2026 Q1 filed 2026-04-30",
+      "value_usd_billions": 18.997,
+      "source": "SEC companyfacts CIK 0001326801, tag PaymentsToAcquirePropertyPlantAndEquipment",
+      "note": "SEC companyfacts 自动抓取；Q2/Q3 使用 YTD 差额估算单季，Q4 使用 FY-Q3 估算。"
+    },
+    {
+      "company": "Alphabet (Google)",
+      "metric_name": "Quarterly CapEx",
+      "fiscal_period": "FY2026 Q1 filed 2026-04-30",
+      "value_usd_billions": 35.674,
+      "source": "SEC companyfacts CIK 0001652044, tag PaymentsToAcquirePropertyPlantAndEquipment",
+      "note": "SEC companyfacts 自动抓取；Q2/Q3 使用 YTD 差额估算单季，Q4 使用 FY-Q3 估算。"
+    },
+    {
+      "company": "Amazon AWS CapEx",
+      "metric_name": "AWS CapEx Proxy",
+      "fiscal_period": "FY2017 Q1 filed 2017-04-28",
+      "value_usd_billions": 7.417,
+      "source": "SEC companyfacts CIK 0001018724, tag PaymentsToAcquirePropertyPlantAndEquipment",
+      "note": "SEC companyfacts 自动抓取；Q2/Q3 使用 YTD 差额估算单季，Q4 使用 FY-Q3 估算。 Amazon 不单独披露 AWS CapEx，因此用 Amazon 整体 CapEx 作为 AWS/AI 基础设施代理指标。"
+    },
+    {
+      "company": "NVIDIA",
+      "metric_name": "Data Center Revenue",
+      "fiscal_period": "Fourth Quarter and Fiscal 2026 | NVIDIA Newsroom, January 25, 2026",
+      "value_usd_billions": 62.3,
+      "source": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026",
+      "note": "从 NVIDIA earnings release 自动解析 Data Center revenue。"
+    }
+  ]
+}
